@@ -11,11 +11,10 @@
 
 ## Technologies used
 
-```
-HTML
-CSS
-JAVASCRIPTS  
-```
+* HTML
+* CSS
+* JAVASCRIPTS  
+
 
 ## Contributing
 
